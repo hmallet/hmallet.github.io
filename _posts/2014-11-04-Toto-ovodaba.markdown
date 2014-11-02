@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title:  "Toto ovodaba jar !"
 date:   2014-11-04 23:19:02
