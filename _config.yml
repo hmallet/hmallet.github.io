@@ -11,3 +11,24 @@ github_username:  hmallet
 
 # Build settings
 markdown: kramdown
+
+# Gestion multilingue
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  -
+    scope:
+      path: _posts/fr
+    values:
+      layout: default
+      lang: fr
+  -
+    scope:
+      path: _posts/hu
+    values:
+      layout: default
+      lang: hu
