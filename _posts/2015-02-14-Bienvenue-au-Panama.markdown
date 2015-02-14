@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: {2015-02-14 11:01:02}
 categories: Tests
 ---
 
